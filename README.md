@@ -1,2 +1,2 @@
 # Burp-Wordlists
-Thats it
+Thats it, just individual entries for each character
